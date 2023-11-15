@@ -1,0 +1,14 @@
+{
+  "type": "course-of-action",
+  "id": "course-of-action--5d9b587f-481e-494f-a547-92de65b44c0a",
+  "created": "2014-06-23T00:00:00Z",
+  "created_by_ref": "identity--e50ab59c-5c4f-4d40-bf6a-d58418d89bcd",
+  "description": "Implement intelligent password throttling mechanisms such as those which take IP address into account, in addition to the login name.",
+  "modified": "2021-06-24T00:00:00Z",
+  "name": "coa-2-0",
+  "object_marking_refs": [
+    "marking-definition--17d82bb2-eeeb-4898-bda5-3ddbcd2b799d"
+  ],
+  "spec_version": "2.1",
+  "x_capec_version": "3.9"
+}

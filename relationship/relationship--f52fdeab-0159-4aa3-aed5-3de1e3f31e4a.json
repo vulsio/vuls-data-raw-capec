@@ -1,0 +1,15 @@
+{
+  "type": "relationship",
+  "id": "relationship--f52fdeab-0159-4aa3-aed5-3de1e3f31e4a",
+  "created": "2014-06-23T00:00:00Z",
+  "created_by_ref": "identity--e50ab59c-5c4f-4d40-bf6a-d58418d89bcd",
+  "modified": "2022-09-29T00:00:00Z",
+  "object_marking_refs": [
+    "marking-definition--17d82bb2-eeeb-4898-bda5-3ddbcd2b799d"
+  ],
+  "relationship_type": "mitigates",
+  "source_ref": "course-of-action--07b3e24d-8000-4c35-881d-2eaae3f2411e",
+  "spec_version": "2.1",
+  "target_ref": "attack-pattern--e62000f0-addd-4156-b9fd-469bbb211d45",
+  "x_capec_version": "3.9"
+}
