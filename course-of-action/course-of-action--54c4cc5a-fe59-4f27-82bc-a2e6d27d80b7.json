@@ -1,14 +1,14 @@
 {
-  "type": "course-of-action",
-  "id": "course-of-action--54c4cc5a-fe59-4f27-82bc-a2e6d27d80b7",
-  "created": "2019-09-30T00:00:00Z",
-  "created_by_ref": "identity--e50ab59c-5c4f-4d40-bf6a-d58418d89bcd",
-  "description": "Leverage file protection mechanisms to render these files accessible only to authorized parties.",
-  "modified": "2020-12-17T00:00:00Z",
-  "name": "coa-497-0",
-  "object_marking_refs": [
-    "marking-definition--17d82bb2-eeeb-4898-bda5-3ddbcd2b799d"
-  ],
-  "spec_version": "2.1",
-  "x_capec_version": "3.9"
+	"type": "course-of-action",
+	"id": "course-of-action--54c4cc5a-fe59-4f27-82bc-a2e6d27d80b7",
+	"created": "2019-09-30T00:00:00Z",
+	"created_by_ref": "identity--e50ab59c-5c4f-4d40-bf6a-d58418d89bcd",
+	"description": "Leverage file protection mechanisms to render these files accessible only to authorized parties.",
+	"modified": "2020-12-17T00:00:00Z",
+	"name": "coa-497-0",
+	"object_marking_refs": [
+		"marking-definition--17d82bb2-eeeb-4898-bda5-3ddbcd2b799d"
+	],
+	"spec_version": "2.1",
+	"x_capec_version": "3.9"
 }
